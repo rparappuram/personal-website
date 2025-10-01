@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.829c67d4.css",
+    "main.js": "/static/js/main.1cd0a9d9.js",
+    "static/media/professional_sitting.png": "/static/media/professional_sitting.a10417e3556e6400e0d6.png",
+    "static/media/ssa_name_analysis.png": "/static/media/ssa_name_analysis.6f0aea0f8237ed4d3b8b.png",
+    "static/media/stock_trading_algo.png": "/static/media/stock_trading_algo.62d030f83ea72e8210a5.png",
+    "static/media/llm_chatbot.png": "/static/media/llm_chatbot.518cb9a29000a3b73233.png",
+    "static/media/url_shortener.png": "/static/media/url_shortener.13117200e61c3dbe6c9e.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.829c67d4.css",
+    "static/js/main.1cd0a9d9.js"
+  ]
+}
