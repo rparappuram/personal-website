@@ -1,37 +1,30 @@
-### Description
+# Personal Portfolio Website
 
-A simple portfolio template for developer/designers built with React.
+A professional portfolio website for showcasing background, skills, and projects, tailored for a career in **quantitative development, finance, and real estate technology**.  
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+## 🔗 Live Preview  
+[View Website](https://yourdomain.com)  
 
-### Features
 
+## Features
 - Fully Responsive
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap
 - Edit Content From One Place
 
-### Setup
 
-Get the code
+## Setup  
+
+Clone the repository:
 
 <pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
 
-Install required dependencies
+Navigate to the project folder and install dependencies:
 
 <pre>yarn install</pre>
 
-Start the server
+Start the development server:
 
 <pre>yarn start</pre>
-
-### More
-
-Modify pages content in `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐
