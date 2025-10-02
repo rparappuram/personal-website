@@ -12,7 +12,7 @@ const meta = {
 };
 
 const introdata = {
-  title: "I’m Ryan Parappuram",
+  title: "Ryan Parappuram",
   animated: {
     first: "Quantitative Developer",
     second: "B.S. + M.S. Computer Science",
